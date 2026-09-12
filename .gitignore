@@ -5,3 +5,4 @@ dist
 .supabase-api-keys.json
 .supabase-project.json
 .vercel-env-values
+supabase/.temp/
